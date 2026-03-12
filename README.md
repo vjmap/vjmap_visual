@@ -4,7 +4,7 @@
 
 唯杰地图可视化平台旨在打造出一个直观、易于操作的地图展示界面， 为用户提供一种简便、高效、精准的CAD地图Web可视化方案，打造出CAD图WEBGIS低码平台。
 
-在线预览体验地址： https://vjmap.com/app/visiual
+在线预览体验地址： https://vjmap.com/app/visual
 
 此工程代码基于[唯杰地图](https://vjmap.com/)二次开发的产品，末经许可，不可将代码应于商业用途(已购买唯杰地图私有化部署除外)。
 

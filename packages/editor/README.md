@@ -2,7 +2,7 @@
 
 [English](README_en.md)
 
-在线预览体验地址： https://vjmap.com/app/visiual
+在线预览体验地址： https://vjmap.com/app/visual
 
 此工程代码基于[唯杰地图](https://vjmap.com/)二次开发的产品，末经许可，不可将代码应于商业用途(已购买唯杰地图私有化部署除外)。
 
